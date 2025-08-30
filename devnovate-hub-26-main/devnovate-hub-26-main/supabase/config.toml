@@ -1,0 +1,7 @@
+project_id = "zklhwdjtccyeoozslafz"
+
+[functions.receive-blog]
+verify_jwt = false
+
+[functions.admin-blogs]
+verify_jwt = false
